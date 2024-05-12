@@ -80,3 +80,5 @@ else:
 ```
 This code checks if the cosine similarity score between the two documents exceeds the threshold. If the similarity score is above the threshold, plagiarism is detected; otherwise, no plagiarism is detected.
 By following these steps, you can preprocess text data, vectorize it, compute cosine similarity, and detect plagiarism in text documents.
+
+OUTPUT: No plagiarism detected.
