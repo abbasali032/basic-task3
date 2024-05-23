@@ -1,3 +1,5 @@
+name : shaik ashish ali
+id : SMI67922
 DESCRIPTION:
 
 Combating online plagiarism with AI involves leveraging artificial intelligence techniques to identify and prevent the unauthorized use of content across digital platforms. Plagiarism, the act of copying or stealing someone else's work without proper attribution, is a widespread issue in academia, journalism, publishing, and various online content creation fields. AI-powered solutions offer efficient and scalable methods to detect and address plagiarism by analyzing large volumes of text, images, or multimedia content.
@@ -17,3 +19,6 @@ The process of combatting online plagiarism with AI typically involves the follo
 6. **Preventive Measures**: In addition to detection, AI technologies can also be used to implement preventive measures against plagiarism, such as content watermarking, digital rights management (DRM), or text obfuscation techniques. These measures deter potential plagiarists by making it more difficult to copy or misuse copyrighted materials without authorization.
 
 By combining advanced machine learning algorithms, natural language processing (NLP) techniques, computer vision technologies, and large-scale data analytics, AI-driven plagiarism detection systems offer efficient, accurate, and scalable solutions for combating online plagiarism across various domains and industries. These systems empower educators, publishers, content creators, and intellectual property rights holders to safeguard their original work, uphold academic integrity, and maintain trust in the digital ecosystem.
+
+conclusion, 
+In conclusion, the rise of AI technology has significantly impacted the landscape of online plagiarism, presenting both challenges and opportunities. While AI-powered tools enable more effective detection and prevention of plagiarism through sophisticated algorithms and machine learning models, they also pose a risk by potentially facilitating more sophisticated forms of plagiarism. As we navigate this evolving terrain, it becomes crucial to strike a balance between leveraging AI for enhancing academic integrity and ethical concerns surrounding its misuse. Educators, researchers, and technology developers must collaborate to develop robust strategies and policies that harness AI's potential while upholding the principles of originality and intellectual honesty in the digital age.
